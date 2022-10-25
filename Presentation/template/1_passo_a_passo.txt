@@ -1,0 +1,15 @@
+Passos para usar o projeto:
+1- Descompactar a pasta zipada;
+2- Abrir qualquer arquivo html no seu navegador de preferência;
+3- Pronto para usar.
+
+Observações:
+Algumas ferramentas de automação de software precisam de um URL válido, então não aceitam acessar o arquivo diretamente.
+Para contornar isso e poder usar uma ferramente, como o selenium IDE por exemplo, basta instalar o XAMPP (link: https://www.apachefriends.org/pt_br/index.html).
+
+Passos para pode utilizar alguma ferramenta de automação no projeto (após instalar o xampp):
+1- Descompactar a pasta zipada;
+2- Mover a pasta para o diretório "htdocs" (depende da sua instalação, mas deve ser algo como C:\Xampp\htdocs)
+3- Iniciar o XAMPP;
+4- Após o XAMPP Control Panel abrir, selecionar o "Start" no Apache.
+5- Acessar o caminho http://localhost/template/ (ele identifica o index como a página principal, então basta não alterar o nome do arquivo que sempre irá funcionar)
